@@ -1,0 +1,8 @@
+{"_id":{"$oid":"663809afa83fc145c1de82b8"},"id":1,"className":"Yoga","classDay":"Monday","sessionLength":2,"price":15,"currentNumber":10}
+{"_id":{"$oid":"66380d3ba83fc145c1de82ba"},"id":2,"className":"Advanced Pilates Session","classDay":"Wednesday","sessionLength":1.5,"price":25,"currentNumber":10}
+{"_id":{"$oid":"66380d44a83fc145c1de82bb"},"id":3,"className":"Beginner's Tai Chi","classDay":"Monday","sessionLength":1,"price":15,"currentNumber":8}
+{"_id":{"$oid":"66380d4fa83fc145c1de82bc"},"id":4,"className":"Core Strengthening Workshop","classDay":"Friday","sessionLength":2,"price":30,"currentNumber":20}
+{"_id":{"$oid":"66380d59a83fc145c1de82bd"},"id":5,"className":"Zumba Dance Party","classDay":"Thursday","sessionLength":1,"price":18,"currentNumber":25}
+{"_id":{"$oid":"66380d63a83fc145c1de82be"},"id":6,"className":"Meditation and Mindfulness","classDay":"Saturday","sessionLength":1.5,"price":22,"currentNumber":12}
+{"_id":{"$oid":"66380d6ea83fc145c1de82bf"},"id":7,"className":"Cardio Kickboxing","classDay":"Monday","sessionLength":1,"price":20,"currentNumber":18}
+{"_id":{"$oid":"66380d76a83fc145c1de82c0"},"id":8,"className":"Full Body Stretch","classDay":"Sunday","sessionLength":1,"price":17,"currentNumber":14}
